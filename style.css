@@ -206,7 +206,7 @@ nav{
         width: 100%;
     }
     .produto .bottom button{
-        min-width: 80%;
+        width: 80%;
         margin: 0 auto 0 auto;
         margin-top: 1rem;
     }
